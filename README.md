@@ -1,8 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-learning Developer.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&theme=cobalt" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GMkonan&show_icons=true&theme=cobalt" />
 <!--
 **GMkonan/GMkonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
