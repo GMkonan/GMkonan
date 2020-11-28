@@ -2,16 +2,10 @@
 
 I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-taught Developer.
 
-<table>
-  <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&theme=cobalt" /></td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt" /></td>
-  </tr>
-</table>
+### Checkout [Stats](https://profile-summary-for-github.com/user/GMkonan) in more detail
 
-### Checkout more [Stats](https://profile-summary-for-github.com/user/GMkonan)
-
-------
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt" />
 
 
 <!--
