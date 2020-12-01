@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&line_height=27&theme=cobalt"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&langs_count=3&theme=cobalt"/>
   </p>
   
   <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
