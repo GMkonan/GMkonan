@@ -19,8 +19,8 @@
   <summary> <b>Github Stats</b>: </summary>
 <br>
 <p align="center">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
   </p>
 
 
