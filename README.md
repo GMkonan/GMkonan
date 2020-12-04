@@ -20,10 +20,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
   </a>
   </p>
 
@@ -33,19 +33,6 @@
 </details>
 
 -----
-
-<hr>
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt" />
-  </a>
-</p>
-
-<hr>
 
 
 > Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
