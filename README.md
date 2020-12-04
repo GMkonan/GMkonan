@@ -27,6 +27,13 @@
   </a>
   </p>
 
+
+  <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
+
+</details>
+
+-----
+
 <hr>
 
 <p align=center>
@@ -40,12 +47,6 @@
 
 <hr>
 
-
-  <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
-
-</details>
-
------
 
 > Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
 > ~ <b>Alan Turing</b>
