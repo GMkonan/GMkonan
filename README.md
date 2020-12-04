@@ -15,14 +15,18 @@
 
 -----
 
-
-<p align="center">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
-  </p>
-
 <details open>
   <summary> <b>Github Stats</b>: </summary>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=GMkonan&count_private=true&show_icons=true&theme=cobalt"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMkonan&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
+  </a>
+  </p>
+
 
 
   <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
