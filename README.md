@@ -3,6 +3,10 @@
 <p align="center">I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-taught Developer.</p>
 
 <p align="center">
+  <img src="anotherMeNobg.png" width=300px height=300px/>
+</p>
+
+<p align="center">
   <strong><a href="https://guilhermemonteiro.dev/">Website</a></strong> |
   <strong><a href="https://twitter.com/GuilhermeKonan">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/gmkonan/">LinkedIn</a></strong> |
