@@ -10,9 +10,9 @@
   <strong><a href="https://guilhermemonteiro.dev/">Website</a></strong> |
   <strong><a href="https://twitter.com/GuilhermeKonan">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/gmkonan/">LinkedIn</a></strong> |
-  <strong><a href="https://www.reddit.com/user/KonanGM">Reddit</a></strong>
+  <strong><a href="https://www.reddit.com/user/KonanGM">Reddit</a></strong> |
+  <strong><a href="https://dev.to/gmkonan">Dev.to</a></strong>
 </p>
-
 -----
 <h3>
   Skill Set
