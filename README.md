@@ -43,16 +43,24 @@
 
 -----
 
+> “If you can't explain it to a six year old, you don't understand it yourself.”
+> ~ <b>Albert Einstein</b>
+
+<h3><b>📕 Blog Posts:</b></h3>
+
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Selection Sort in Java](https://dev.to/gmkonan/implementing-selection-sort-in-java-26c2)
-- [Implementing Singly Linked Lists in Java](https://dev.to/gmkonan/implementing-singly-linked-lists-in-java-gbh)
 <!-- BLOG-POST-LIST:END -->
 
+<details open>
+  <summary> <b>My Stats</b>: </summary>
+<br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+</details>
 
-> Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
+
+> “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
 > ~ <b>Alan Turing</b>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GMkonan.GMkonan)
