@@ -44,6 +44,8 @@
 -----
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Selection Sort in Java](https://dev.to/gmkonan/implementing-selection-sort-in-java-26c2)
+- [Implementing Singly Linked Lists in Java](https://dev.to/gmkonan/implementing-singly-linked-lists-in-java-gbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
