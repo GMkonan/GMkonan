@@ -51,7 +51,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<details open>
+<details>
   <summary> <b>My Stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
