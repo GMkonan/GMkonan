@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 50 Contributions in the Year 2021
+> 🏆 51 Contributions in the Year 2021
  > 
 > 📦 104.0 kB Used in Github's Storage 
  > 
@@ -97,8 +97,7 @@ Sunday       45 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 mins              ████████████████████░░░░░   81.31% 
-CSS                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.69%
+No Activity Tracked This Week
 
 ```
 
