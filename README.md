@@ -18,13 +18,16 @@
   Skill Set
 </h3>
 
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-fff?&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508" />
+<img src="https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396" />
+<img src="https://img.shields.io/badge/-React-fff?&logo=React" />
+<img src="https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000" />
+<img src="https://img.shields.io/badge/-Node.js-fff?&logo=node.js" />
+<img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL" />
+</p>
+
 
 -----
 
