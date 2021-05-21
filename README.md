@@ -52,6 +52,7 @@
 <h3><b>📕 Blog Posts:</b></h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 - [Minha experiência no NLW #4](https://dev.to/gmkonan/minha-experiencia-no-nlw-4-1o01)
 - [Implementing Binary Search in Java](https://dev.to/gmkonan/implementing-binary-search-in-java-489a)
 - [Implementing Selection Sort in Java](https://dev.to/gmkonan/implementing-selection-sort-in-java-26c2)
