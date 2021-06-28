@@ -52,11 +52,11 @@
 <h3><b>📕 Blog Posts:</b></h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 - [Minha experiência no NLW #4](https://dev.to/gmkonan/minha-experiencia-no-nlw-4-1o01)
 - [Implementing Binary Search in Java](https://dev.to/gmkonan/implementing-binary-search-in-java-489a)
 - [Implementing Selection Sort in Java](https://dev.to/gmkonan/implementing-selection-sort-in-java-26c2)
-- [Implementing Singly Linked Lists in Java](https://dev.to/gmkonan/implementing-singly-linked-lists-in-java-gbh)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
