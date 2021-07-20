@@ -65,9 +65,9 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 267 Contributions in the Year 2021
+> 🏆 268 Contributions in the Year 2021
  > 
-> 📦 111.2 kB Used in Github's Storage 
+> 📦 111.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,12 +102,12 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
 
 </details>
