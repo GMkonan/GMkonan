@@ -10,22 +10,7 @@
   <strong><a href="https://guilhermemonteiro.dev/">Website</a></strong> |
   <strong><a href="https://twitter.com/GuilhermeKonan">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/gmkonan/">LinkedIn</a></strong> |
-  <strong><a href="https://www.reddit.com/user/KonanGM">Reddit</a></strong> |
   <strong><a href="https://dev.to/gmkonan">Dev.to</a></strong>
-</p>
-
-<h3>
-  Skill Set
-</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-Python-fff?&logo=python" />
-<img src="https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508" />
-<img src="https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396" />
-<img src="https://img.shields.io/badge/-React-fff?&logo=React" />
-<img src="https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000" />
-<img src="https://img.shields.io/badge/-Node.js-fff?&logo=node.js" />
-<img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL" />
 </p>
 
 
@@ -58,60 +43,6 @@
 - [Minha experiência no NLW #4](https://dev.to/gmkonan/minha-experiencia-no-nlw-4-1o01)
 - [Implementing Binary Search in Java](https://dev.to/gmkonan/implementing-binary-search-in-java-489a)
 <!-- BLOG-POST-LIST:END -->
-
-<details>
-  <summary> <b>My Stats</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 277 Contributions in the Year 2021
- > 
-> 📦 111.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 51 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    96 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-🌆 Daytime    118 commits    █████░░░░░░░░░░░░░░░░░░░░   23.37% 
-🌃 Evening    162 commits    ████████░░░░░░░░░░░░░░░░░   32.08% 
-🌙 Night      129 commits    ██████░░░░░░░░░░░░░░░░░░░   25.54%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-Tuesday      79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-Wednesday    68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Thursday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-Friday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-Saturday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
-Sunday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 02/08/2021
-<!--END_SECTION:waka-->
-
-</details>
-
 
 > “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
 > ~ <b>Alan Turing</b>
