@@ -21,8 +21,10 @@
 <br>
 <p align="center">
   <img height=165 align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=GMkonan&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&count_private=true&show_icons=true&theme=cobalt"/>
-  <img height=165 align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&langs_count=8&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
-  </p>
+  <!--
+  <img height=165 align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&langs_count=8&exclude_repo=Senac-Projeto&hide=Handlebars,Makefile&count_private=true&layout=compact&theme=cobalt"/>
+  -->  
+</p>
 
 
   <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
