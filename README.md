@@ -1,37 +1,28 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-taught Developer.</p>
+[![Github](https://img.shields.io/github/followers/GMkonan?label=Follow&style=social)](https://github.com/GMkonan)
+  
+I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-taught Developer.
+
+## Github Stats:
+
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=GMkonan&count_private=true&role=OWNER,COLLABORATOR&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+    <a href="#">
+    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=OWNER,COLLABORATOR&exclude_repo=Senac-Projeto&hide=Handlebars,Makefile&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  </a>
+</div>
+
+## Find Me
 
 <p align="center">
-  <img src="anotherMeNobg.png" width=300px height=300px/>
+    <strong><a href="https://guilhermemonteiro.dev/">Website</a></strong> |
+    <strong><a href="https://twitter.com/GuilhermeKonan">Twitter</a></strong> |
+    <strong><a href="https://www.linkedin.com/in/gmkonan/">LinkedIn</a></strong> |
+    <strong><a href="https://dev.to/gmkonan">Dev.to</a></strong>
 </p>
-
-<p align="center">
-  <strong><a href="https://guilhermemonteiro.dev/">Website</a></strong> |
-  <strong><a href="https://twitter.com/GuilhermeKonan">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/gmkonan/">LinkedIn</a></strong> |
-  <strong><a href="https://dev.to/gmkonan">Dev.to</a></strong>
-</p>
-
-
------
-
-<details open>
-  <summary> <b>Github Stats</b>: </summary>
-<br>
-<p align="center">
-  <img height=165 align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=GMkonan&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&count_private=true&show_icons=true&theme=cobalt"/>
-  <!--
-  <img height=165 align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&langs_count=8&exclude_repo=Senac-Projeto&hide=Handlebars,Makefile&count_private=true&layout=compact&theme=cobalt"/>
-  -->  
-</p>
-
-
-  <h3 align="center">Checkout<a href="https://profile-summary-for-github.com/user/GMkonan"> Stats</a> in more detail</h3>
-
-</details>
-
------
 
 > “If you can't explain it to a six year old, you don't understand it yourself.”
 > ~ <b>Albert Einstein</b>
@@ -48,8 +39,6 @@
 
 > “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
 > ~ <b>Alan Turing</b>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GMkonan.GMkonan)
 
 <!--
 **GMkonan/GMkonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
