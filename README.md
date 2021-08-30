@@ -11,7 +11,7 @@ I Am Guilherme Monteiro Pereira also known as Konan and I'm a self-taught Develo
     <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=GMkonan&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
     <a href="#">
-    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=Senac-Projeto&hide=Handlebars,Makefile&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=GMkonan&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=Senac-Projeto&hide=Handlebars,Makefile,scss&count_private=true&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
   </a>
 </div>
 
