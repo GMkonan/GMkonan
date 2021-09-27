@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Multiple web and game dev projects**
 
+- 🤝 I’m looking to collaborate on **Interesting projects**
+
 > “If you can't explain it to a six year old, you don't understand it yourself.”
 > ~ <b>Albert Einstein</b>
 
