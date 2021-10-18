@@ -15,8 +15,6 @@
 - [Why we use "key" in React?](https://dev.to/gmkonan/why-we-use-key-in-react-4a03)
 - [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
-- [Minha experiência no NLW #4](https://dev.to/gmkonan/minha-experiencia-no-nlw-4-1o01)
-- [Implementing Binary Search in Java](https://dev.to/gmkonan/implementing-binary-search-in-java-489a)
 <!-- BLOG-POST-LIST:END -->
 
 > “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
