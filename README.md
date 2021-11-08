@@ -12,7 +12,7 @@
 <h3><b>📕 Blog Posts:</b></h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we use "key" in React?](https://dev.to/gmkonan/why-we-use-key-in-react-4a03)
+- [Why we use &quot;key&quot; in React?](https://dev.to/gmkonan/why-we-use-key-in-react-4a03)
 - [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 <!-- BLOG-POST-LIST:END -->
