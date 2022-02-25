@@ -2,13 +2,6 @@
   
 #### I am Guilherme Monteiro Pereira also known as Konan and I'm a Fullstack Developer.
 
-- 🔭 I’m currently working on **Multiple web and game dev projects**
-
-- 🤝 I’m looking to collaborate on **Interesting projects**
-
-> “If you can't explain it to a six year old, you don't understand it yourself.”
-> ~ <b>Albert Einstein</b>
-
 <h3><b>📕 Blog Posts:</b></h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -16,9 +9,6 @@
 - [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 <!-- BLOG-POST-LIST:END -->
-
-> “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
-> ~ <b>Alan Turing</b>
 
 <!--
 **GMkonan/GMkonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
