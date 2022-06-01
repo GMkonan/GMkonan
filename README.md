@@ -1,6 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
   
 #### I am Guilherme Monteiro Pereira also known as Konan and I'm a Fullstack Developer.
+
+I would write a `what I'm learning` section but it would change so often that I prefer just saying **I'm learning a lot!**.
 
 <h3><b>📕 Blog Posts:</b></h3>
 
@@ -9,6 +11,7 @@
 - [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 <!-- BLOG-POST-LIST:END -->
+You can check my articles on my [blog](gmkonan.dev/articles) as well :)
 
 <!--
 **GMkonan/GMkonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
