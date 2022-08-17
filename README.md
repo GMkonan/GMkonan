@@ -11,7 +11,7 @@ I would write a `what I'm learning` section but it would change so often that I 
 - [The compiling process](https://dev.to/gmkonan/the-compiling-process-28do)
 - [Customizing Git Bash in Windows](https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3)
 <!-- BLOG-POST-LIST:END -->
-You can check my articles on my [blog](gmkonan.dev/articles) as well :)
+You can check my articles on my [blog](https://www.gmkonan.dev/articles) as well :)
 
 <!--
 **GMkonan/GMkonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 “If you can’t explain it to a 6-year-old, you don’t understand it yourself,” ~ <b>Albert Einstein</b>
+
+![GMkonan GitHub stats](https://github-readme-stats.vercel.app/api?username=gmkonan&count_private=true&include_all_commits=true)
 -->
