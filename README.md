@@ -1,9 +1,12 @@
+<!-- <img width="3484" height="1162" alt="ryo" src="ryo-night-looking-cam.jpg" /> -->
 
-<div align="center">
-  <h3>Coding...</h3>
-  <img src="bocchipfp.jpeg" width=350 height=350 />
-</div>
+# Hi! I'm Konan!
 
+I'm a Developer usually working with typescript in fullstack applications. Stumbling my way into solutions in whatever technology it may be!
+
+i use nixos, corne, and neovim, btw
+
+feel free to check out [all my links here](https://bio.gmkonan.dev/)
 
 <!-- Remains of a forgotten past
 ```math
