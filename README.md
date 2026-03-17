@@ -6,7 +6,6 @@ I'm a Developer usually working with typescript in fullstack applications. Stumb
 
 i use nixos, corne, and neovim, btw
 
-feel free to check out [all my links here](https://bio.gmkonan.dev/)
 
 <!-- Remains of a forgotten past
 ```math
